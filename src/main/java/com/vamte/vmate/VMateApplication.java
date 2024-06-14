@@ -9,5 +9,4 @@ public class VMateApplication {
     public static void main(String[] args) {
         SpringApplication.run(VMateApplication.class, args);
     }
-
 }
