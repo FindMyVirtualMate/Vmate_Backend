@@ -30,3 +30,42 @@
 ## [🔥 Trouble Shooting]
 
 <br>
+
+## [🔥 Functions]
+signIn (로그인)
+
+singUp (회원가입)
+
+weeklyTop3List (주간 상위 3 게시물)
+
+currentList (최신 게시물 리스트)
+
+popularWordList (인기 검색어 리스트)
+
+searchList (검색 게시물 리스트)
+
+relativeWordList (관련 검색어 리스트)
+
+boardDetail (게시물 상세)
+
+favoriteList (좋아요 리스트)
+
+putFavorite (좋아요 기능)
+
+commentList (댓글 리스트)
+
+postComment (댓글 쓰기)
+
+boardDelete (게시물 삭제)
+
+boardWrite (게시물 쓰기)
+
+boardUpdate (게시물 수정)
+
+getUser (유저 정보)
+
+userBoardList (특정 유저 게시물 리스트)
+
+fileUpload (파일 업로드)
+
+getFile (파일 불러오기)
