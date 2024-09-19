@@ -6,6 +6,12 @@ spring:
     username: ${secret.dev-mysql-username}
     password: ${secret.dev-mysql-password}
     driver-class-name: com.mysql.cj.jdbc.Driver
+  jpa:
+    hibernate:
+      ddl-auto: update
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.MySQLDialect
   output:
     ansi:
       enabled: always

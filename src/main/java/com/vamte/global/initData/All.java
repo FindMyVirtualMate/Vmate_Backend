@@ -1,4 +1,4 @@
-﻿package com.vamte.global.initData;
+package com.vamte.global.initData;
 
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
